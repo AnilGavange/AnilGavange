@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnilGavange
+- 📫 How to reach me @AnilGavange
+- 😄 Pronouns: He/Him/His
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning @nutan collage of engineering and reasearch in branch of Electronics and Communication Engineering
 - 💞️ I’m looking to collaborate on industry collaboration, open source projectsj, hackathon and competition
-- 📫 How to reach me @AnilGavange
-- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Gamer
